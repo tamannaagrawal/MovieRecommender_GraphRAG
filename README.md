@@ -12,7 +12,8 @@ This project demonstrates how to build an GenAI-powered movie recommendation eng
 
 The system performs semantic search using vector embeddings to retrieve relevant movie context, then dynamically generates Cypher queries using Gemini based on this context and the Neo4j knowledge graph schema. These Cypher queries are executed to fetch precise results, which are then summarized conversationally by Gemini — enabling a powerful, explainable, and context-aware movie recommendation experience.
 
-## 🎬 [Live Demo](https://movies-reco-258362460261.us-central1.run.app/)
+## 🎬 [Live Demo](https://movies-chatbot-912120198056.us-central1.run.app/)
+Link: https://movies-chatbot-912120198056.us-central1.run.app/
 
 ## 🧩 How It Works
 
