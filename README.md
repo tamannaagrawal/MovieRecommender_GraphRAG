@@ -3,10 +3,6 @@
 
 A movie recommendation application that combines Neo4j's graph database capabilities with Google Cloud's Vertex AI to deliver intelligent, natural language-based movie recommendations. The system performs semantic vector search using Vertex AI embeddings, then leverages large language models to generate and execute Cypher queries on the Neo4j knowledge graph, enabling multi-hop reasoning and contextual recommendations powered by the GraphRAG pattern.
 
-## 📝 Blog Post
-
-Check out the detailed explanation of this project in the blog post: [Building an Intelligent Movie Search with Neo4j and Vertex AI](https://sidagarwal04.medium.com/building-an-intelligent-movie-search-with-neo4j-and-vertex-ai-a38c75f79cf7)
-
 ## 🚀 Overview
 This project demonstrates how to build an GenAI-powered movie recommendation engine using the GraphRAG pattern by integrating:
 
@@ -233,10 +229,6 @@ Note:
 - [Gradio Documentation](https://gradio.app/docs/)
 - [Cloud Run Documentation](https://cloud.google.com/run/docs)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
